@@ -1,5 +1,5 @@
 import React, { useCallback, useRef, useState } from 'react';
-import Crossword from '@jaredreisinger/react-crossword';
+import Crossword from '@rgangela99/react-crossword';
 import styled from 'styled-components';
 
 const data = {

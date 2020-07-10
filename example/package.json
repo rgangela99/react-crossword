@@ -3,13 +3,15 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@jaredreisinger/react-crossword": "file:..",
-    "immer": "file:../node_modules/immer",
+    "@rgangela99/react-crossword": "file:..",
+    "immer": "^6.0.9",
+    "node-sass": "^4.0.0",
     "prop-types": "file:../node_modules/prop-types",
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "3.4.1",
-    "styled-components": "file:../node_modules/styled-components"
+    "styled-components": "file:../node_modules/styled-components",
+    "typescript": "^3.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
